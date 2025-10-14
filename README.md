@@ -17,8 +17,7 @@ This project implemented a paper shredder system utilizing three pairs of blades
 |------------|-------------|
 | Motor | 12V DC Motor |
 | Blades | 3 pairs, stainless steel |
-| PCB | Custom designed using KiCad |
+| PCB | Custom designed using EasyEDA & Proteus |
 
 
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
-![Made with](https://img.shields.io/badge/made%20with-love-red)
