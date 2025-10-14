@@ -1,6 +1,6 @@
 # 3-blades-paper-shredder
 
-This project implemented a paper shredder system utilizing three pairs of blades, with a custom-designed printed circuit board (PCB) for control and operation. 
+This project implemented a paper shredder system utilizing three pairs of blades, with a custom-designed printed circuit board (PCB) for control and operation, demonstrating my ability in Embedded Systems. 
 
 ## 🚀 Features
 - Three pairs of high-efficiency blades
