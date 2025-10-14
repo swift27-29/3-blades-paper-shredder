@@ -19,5 +19,7 @@ This project implemented a paper shredder system utilizing three pairs of blades
 | Blades | 3 pairs, stainless steel |
 | PCB | Custom designed using EasyEDA & Proteus |
 
+## 💡 PCB Schematic Diagram
+![Paper Shredder PCB](images/schematic.bmp)
 
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
