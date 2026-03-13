@@ -26,8 +26,10 @@ This project implemented a paper shredder system utilizing three pairs of blades
 
 <table>
 <tr>
-<td><img src="images/PCB-Layout.png" width="400"/></td>
-<td><img src="images/Top View.png" width="400"/></td>
+<td><img src="images/PCB-Layout.png" width="200"/></td>
+<td><img src="images/Top View.png" width="200"/></td>
+  <td><img src="images/Pcb-Prototype-Design-Trial.jpg" width="200"/></td>
+  <td><img src="images/Pcb-Prototype-Design-Trial1.jpg" width="200"/></td>
 </tr>
 </table>
 
