@@ -47,7 +47,7 @@ This project implemented a paper shredder system utilizing three pairs of blades
 ## 🧾 User Manual 
 <table>
   <tr>
-    <td><Status></td>
+    <td>Status</td>
   </tr>
 </table>
 
