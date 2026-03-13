@@ -22,7 +22,7 @@ This project implemented a paper shredder system utilizing three pairs of blades
 ## 💡 PCB Schematic Diagram
 ![Paper Shredder PCB](images/schematic.bmp)
 
-## PCB Layout and Prototyping
+## 📐 PCB Layout and Prototyping
 
 <table>
 <tr>
@@ -33,7 +33,7 @@ This project implemented a paper shredder system utilizing three pairs of blades
 </tr>
 </table>
 
-## PCB Combinational Circuit Simulation
+## 💻⚙️ PCB Combinational Circuit Simulation
 
 <table>
   <tr>
