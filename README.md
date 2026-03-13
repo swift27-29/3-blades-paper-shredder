@@ -37,10 +37,10 @@ This project implemented a paper shredder system utilizing three pairs of blades
 
 <table>
   <tr>
-    <td><img src="images/PCB-Logisim-Simulation-C.jpg" width="100"/></td>
-    <td><img src="images/PCB-Logisim-Simulation-U.jpg" width="100"/></td>
-    <td><img src="images/PCB-Logisim-Simulation-S.jpg" width="100"/></td>
-    <td><img src="images/Pcb-Trial1-Circuit-Simulation.jpg" width="100"/></td>
+    <td><img src="images/PCB-Logisim-Simulation-C.jpg" width="200"/></td>
+    <td><img src="images/PCB-Logisim-Simulation-U.jpg" width="200"/></td>
+    <td><img src="images/PCB-Logisim-Simulation-S.jpg" width="200"/></td>
+    <td><img src="images/Pcb-Trial1-Circuit-Simulation.jpg" width="200"/></td>
   </tr>
 </table>
 
