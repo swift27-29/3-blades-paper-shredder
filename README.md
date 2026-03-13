@@ -28,19 +28,20 @@ This project implemented a paper shredder system utilizing three pairs of blades
 <tr>
 <td><img src="images/PCB-Layout.png" width="200"/></td>
 <td><img src="images/Top View.png" width="200"/></td>
-  <td><img src="images/Design-Trial.jpg" width="210"/></td>
-  <td><img src="images/Design-Trial1.jpg" width="210"/></td>
+<td><img src="images/Design-Trial.jpg" width="210"/></td>
+<td><img src="images/Design-Trial1.jpg" width="210"/></td>
 </tr>
 </table>
 
 ## PCB Combinational Circuit Simulation
 
-<tr>
-<td><img src="images/PCB-Logisim-Simulation-C.jpg" width="100"/></td>
-<td><img src="images/PCB-Logisim-Simulation-U.jpg" width="100"/></td>
-  <td><img src="images/PCB-Logisim-Simulation-S.jpg" width="100"/></td>
-  <td><img src="images/Pcb-Trial1-Circuit-Simulation.jpg" width="100"/></td>
-</tr>
+<table>
+  <tr>
+    <td><img src="images/PCB-Logisim-Simulation-C.jpg" width="100"/></td>
+    <td><img src="images/PCB-Logisim-Simulation-U.jpg" width="100"/></td>
+    <td><img src="images/PCB-Logisim-Simulation-S.jpg" width="100"/></td>
+    <td><img src="images/Pcb-Trial1-Circuit-Simulation.jpg" width="100"/></td>
+  </tr>
 </table>
 
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
