@@ -45,10 +45,6 @@ This project implemented a paper shredder system utilizing three pairs of blades
 </table>
 
 ## 🧾 User Manual 
-<table>
-  <tr>
-    <td>Status</td>
-  </tr>
-</table>
-
+# 1. Plug-in Device 
+# 2. System Initialization Check
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
