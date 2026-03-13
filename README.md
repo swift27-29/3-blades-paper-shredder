@@ -45,6 +45,9 @@ This project implemented a paper shredder system utilizing three pairs of blades
 </table>
 
 ## 🧾 User Manual 
-# 1. Plug-in Device 
-# 2. System Initialization Check
+1. ** Plug-in Device: ** Switch on the external power button to supply power to the prototype. 
+2. ** System Initialization Check: ** Confirm that the seven-segment display and other system indicators are working properly. The display should show "0" upon successful initialization.
+3. ** Select a Cutting Mode: ** Once the system has initialized, select the preferred cutting mode by pressing the
+corresponding switch.
+
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
