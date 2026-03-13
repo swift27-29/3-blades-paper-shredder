@@ -22,4 +22,13 @@ This project implemented a paper shredder system utilizing three pairs of blades
 ## 💡 PCB Schematic Diagram
 ![Paper Shredder PCB](images/schematic.bmp)
 
+## PCB Layout
+
+<table>
+<tr>
+<td><img src="images/PCB-Layout.png" width="200"/></td>
+<td><img src="images/Top View.png" width="200"/></td>
+</tr>
+</table>
+
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
