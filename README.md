@@ -31,4 +31,6 @@ This project implemented a paper shredder system utilizing three pairs of blades
 </tr>
 </table>
 
+## PCB Combinational Circuit Simulation
+
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
