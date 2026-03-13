@@ -48,6 +48,58 @@ This project implemented a paper shredder system utilizing three pairs of blades
 1. **Plug-in Device:** Switch on the external power button to supply power to the prototype. 
 2. **System Initialization Check:** Confirm that the seven-segment display and other system indicators are working properly. The display should show "0" upon successful initialization.
 3. **Select a Cutting Mode:** Once the system has initialized, select the preferred cutting mode by pressing the
-corresponding switch.
+corresponding switch. </br>
 
-![Status](https://img.shields.io/badge/status-complete-brightgreen)
+***Strip-Cut Mode***
+<ul>
+<li>   Press the first switch to activate the strip cut 
+mode. </br></li>
+<li>    Verify functionality by observing the motor 
+operation. Once the motors are active, insert 
+a sheet of paper into the strip cut feeder and 
+wait for the shredding process to complete. </br></li>
+<li>    After testing, ensure the switch is turned off 
+before selecting the next shredding mode. </br> </li>
+</ul>
+
+![Paper Shredder PCB](images/Pcb-Combinational-CircuitS-Simulation.jpg)
+
+***Cross-Cut Mode***
+<ul>
+<li>   Press the second switch to activate the cross-cut 
+mode. </br></li>
+<li>    Verify functionality by observing the motor 
+operation. Once the motors are active, insert 
+a sheet of paper into the strip cut feeder and 
+wait for the shredding process to complete. </br></li>
+<li>    After testing, ensure the switch is turned off 
+before selecting the next shredding mode. </br> </li>
+</ul>
+
+![Paper Shredder PCB](images/Pcb-Combinational-CircuitC-Simulation.jpg)
+
+***Micro-Cut Mode***
+<ul>
+<li>   Press the third switch to activate the micro-cut 
+mode. </br></li>
+<li>    Verify functionality by observing the motor 
+operation. Once the motors are active, insert 
+a sheet of paper into the strip cut feeder and 
+wait for the shredding process to complete. </br></li>
+<li>    After testing, ensure the switch is turned off 
+before selecting the next shredding mode. </br> </li>
+</ul>
+
+![Paper Shredder PCB](images/Pcb-Combinational-CircuitU-Simulation.jpg)
+
+Request Final Video Demo through this link: https://drive.google.com/file/d/1gla7fulxsFyBamaDr72acsCUVDNbXXHi/view?usp=sharing 
+
+4. **Weight Detection Test:**
+<ul>
+<li>   Place a 3kg weight on the load cell plate. </br></li>
+<li>   Verify that the buzzer activates, 
+indicating the container has reached the 
+threshold weight. </br></li>
+</ul>
+
+![Weight Detection](images/Pcb-1kg-Simulation.jpg)
